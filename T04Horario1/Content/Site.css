@@ -1,0 +1,14 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background: #01BCD9;
+}
+
+.thclss {
+    background-color: cornflowerblue;
+}
+
+.img-thumbnail {
+    width: 100%;
+    height: 500px;
+}
