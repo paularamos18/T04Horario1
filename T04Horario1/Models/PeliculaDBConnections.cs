@@ -5,7 +5,9 @@ using System.Web;
 
 namespace T04Horario1.Models
 {
-    public class PeliculaDBConnections
+    public class PeliculaDBConnections:DbContext
     {
+
     }
+
 }
